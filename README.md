@@ -54,7 +54,7 @@ Coming soon...
 
 | Protocol | Report | SLOC | Fix commmit |
 |:--:|:--:|:--:|:--:|
-|Velocore| s |~700| [Commit](https://github.com/velocore/velocore-contracts/commit/083f112d4960717ad136f72eb0bb062dcfac08ea#diff-16e493ca7f64abb67ef8e15e7e3291201a1be3a3a2a25f62eac63ff108185384) |
+|Velocore| https://github.com/0xArz/audits/blob/main/private-audits/Velocore-audit.pdf |~700| [Commit](https://github.com/velocore/velocore-contracts/commit/083f112d4960717ad136f72eb0bb062dcfac08ea#diff-16e493ca7f64abb67ef8e15e7e3291201a1be3a3a2a25f62eac63ff108185384) |
 
 ## Gas optimization reports
 
