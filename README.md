@@ -10,8 +10,8 @@ If you are interested in a private Security Review, feel free to reach out:
 # Summary
 
 13 total competitions
-- 10 High
-- 24 Medium
+- 11 High
+- 26 Medium
 
 1 private audit
 
@@ -20,13 +20,14 @@ If you are interested in a private Security Review, feel free to reach out:
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
 - Profile: https://code4rena.com/@Arz
-- 126th on the [365 day leaderboard](https://code4rena.com/leaderboard) 
+- 119th on the [365 day leaderboard](https://code4rena.com/leaderboard) 
 
 | Contest | High Risk | Medium Risk | Security Report | Results
 |:--:|:--:|:--:|:--:| :--:|
 | [Maia DAO - Ulysses](https://code4rena.com/audits/2023-09-maia-dao-ulysses#top) | - | 2 medium | Findings: [#881](https://code4rena.com/reports/2023-09-maia#m-01-the-governance-will-fail-to-add-an-ecosystem-token-if-someone-creates-a-htoken-that-uses-that-ecosystem-token) [#867](https://github.com/code-423n4/2023-09-maia-findings/issues/867)  | [7th place](https://code4rena.com/audits/2023-09-maia-dao-ulysses#top)
 | [Party Protocol](https://code4rena.com/audits/2023-10-party-protocol#top) | - | 2 medium | Findings: [#475](https://code4rena.com/reports/2023-10-party#m-01-some-arbitrary-proposal-calls-will-fail-because-executeproposal-in-proposalexecutionengine-is-not-payable) [#552](https://github.com/code-423n4/2023-10-party-findings/issues/552)  | [4th place](https://code4rena.com/audits/2023-10-party-protocol#top)
 | [Ondo Finance](https://code4rena.com/audits/2023-09-ondo-finance#top) | - | 1 medium | Findings: [#552](https://github.com/code-423n4/2023-09-ondo-findings/issues/552) | [Top15](https://code4rena.com/audits/2023-09-ondo-finance#top)
+| [RevertLend](https://code4rena.com/audits/2024-03-revert-lend#top) | 1 High | 2 medium | Findings(report not published yet):  | [Top15](https://code4rena.com/audits/2024-03-revert-lend#top)
 | [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top) | 2 High | 1 medium | Findings(report not published yet):  | [Results](https://code4rena.com/audits/2024-01-saltyio#top)
 | [Ethena](https://code4rena.com/audits/2023-10-ethena-labs#top) | - | 2 medium | Findings: [#666](https://github.com/code-423n4/2023-10-ethena-findings/issues/666) [#697](https://github.com/code-423n4/2023-10-ethena-findings/issues/697)  | [Top20](https://code4rena.com/audits/2023-10-ethena-labs#top)
 | [Open Dollar](https://code4rena.com/audits/2023-10-open-dollar#top) | - | 4 medium | Findings: [#322](https://github.com/code-423n4/2023-10-opendollar-findings/issues/322) [#416](https://github.com/code-423n4/2023-10-opendollar-findings/issues/416) [#292](https://github.com/code-423n4/2023-10-opendollar-findings/issues/292)  [#388](https://github.com/code-423n4/2023-10-opendollar-findings/issues/388)  | [Results](https://code4rena.com/audits/2023-10-open-dollar#top)
