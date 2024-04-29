@@ -15,7 +15,7 @@ If you are interested in a private Security Review, feel free to reach out:
 
 1 private audit
 
-1 medium on Immunefi
+1 critical and 1 medium on Immunefi
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
